@@ -1,7 +1,7 @@
 ### Hi there, I'm Maggie 👋
-- 🔭 I’m currently working with LimeSurvey 
-- 🔭 I have been involved in PHP, VisualBasic, JavaScript, HTML, CSS
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working with Java, JavaScript, LimeSurvey 
+- 🔭 I have been involved in Java, React, PHP, VisualBasic, JavaScript, HTML, CSS
+ 
 
 ## Skills: 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,php,js,html,css,vscode,idea,visualstudio,postgres,mysql,regex)](https://skillicons.dev)
@@ -12,13 +12,5 @@
 <!--
 **magdalenavelikova/magdalenavelikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working with LimeSurvey 
-- 🔭 I have been involved in PHP, VisualBasic, JavaScript, HTML, CSS
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
